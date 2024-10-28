@@ -1,5 +1,5 @@
 # Gaminator 3
-Exploring the Advantages of [Gaminator](https://www.gaminatorsystem.com/en/) 3 System
+Exploring the Advantages of [Gaminator](https://www.gamsystem.org/en/) 3 System
 
 ## HTML5 Technology:
 Gaminator 3 System harnesses the power of advanced HTML5 technology, ensuring seamless compatibility across various devices and platforms. This modern framework facilitates smooth gaming experiences on desktops, laptops, tablets, and mobile phones, offering unparalleled flexibility and accessibility.
